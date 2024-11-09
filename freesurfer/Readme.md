@@ -1,4 +1,4 @@
-#Structual MRI data analysis
+# Structual MRI data analysis
 ## preprocessing by freesurfer
 + Kim, D., et al., & Lee, J. S. (2024). Improving 18F-FDG PET Quantification Through a Spatial Normalization Method. Journal of Nuclear Medicine, 65(10), 1645–1651. doi:10.2967/jnumed.123.267360
 + [freesurfer tutorial website](https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/PracticeV6.0)
