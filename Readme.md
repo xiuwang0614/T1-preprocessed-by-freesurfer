@@ -5,11 +5,11 @@
 ### Usage
 `parallel_reconall.sh`could used to following steps:
  - Finding the dicoms for all subjects.
-  - `script_loop_folder.sh` has the same separate fundtion.
+   - `script_loop_folder.sh` has the same separate fundtion.
  - Identifying the T1-weighted image.
-  - `dcmunpack.sh` has the same separate fundtion.
+   - `dcmunpack.sh` has the same separate fundtion.
  - Performs all, or any part of, the FreeSurfer cortical reconstruction process.
-  - ```recon-all -all -i I50 -s  Subj001```
-  - `reconall`has the same separate fundtion.
+   - ```recon-all -all -i I50 -s  Subj001```
+   - `reconall`has the same separate fundtion.
  - Parallel proposed.
 ----
