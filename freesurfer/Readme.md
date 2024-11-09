@@ -11,6 +11,14 @@
  - Performs all, or any part of, the FreeSurfer cortical reconstruction process.
    - ```recon-all -all -i I50 -s  Subj001```
    - `reconall`has the same separate fundtion.
- - Parallel proposed.
+ - Parallel batching analysis.
+----
+### Note
+Following code must be kept, or you would not use the _ _dcmunpack_ _ and _ _recon-all_ _ 
+```
+export FREESURFER_HOME="/path/to/freesurfer"
+source $FREESURFER_HOME/SetUpFreeSurfer.sh
+export FS_LOAD_DWI=0
+```
 ----
 
