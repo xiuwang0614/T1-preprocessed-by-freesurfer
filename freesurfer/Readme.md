@@ -14,7 +14,7 @@
  - Parallel batching analysis.
 ----
 ### Note
-Following code must be kept, or you could not use the _ _dcmunpack_ _ and _ _recon-all_ _ .
+Following code must be kept, or you could not use the __dcmunpack_ and __recon-all_.
 ```
 export FREESURFER_HOME="/path/to/freesurfer"
 source $FREESURFER_HOME/SetUpFreeSurfer.sh
