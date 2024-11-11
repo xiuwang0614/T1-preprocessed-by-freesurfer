@@ -3,7 +3,7 @@
 + Kim, D., et al., & Lee, J. S. (2024). Improving 18F-FDG PET Quantification Through a Spatial Normalization Method. Journal of Nuclear Medicine, 65(10), 1645–1651. doi:10.2967/jnumed.123.267360
 + [freesurfer tutorial website](https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/PracticeV6.0)
 ### Usage
-`parallel_reconall.sh`could used to following steps:
+`2parallel_reconall.sh`could used to following steps:
  - Finding the dicoms for all subjects.
    - `script_loop_folder.sh` has the same separate fundtion.
  - Identifying the T1-weighted image.
