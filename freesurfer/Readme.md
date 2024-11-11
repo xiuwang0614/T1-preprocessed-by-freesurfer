@@ -12,7 +12,6 @@
    - ```recon-all -all -i I50 -s  Subj001```
    - `reconall`has the same separate fundtion.
  - Parallel batching analysis.
-----
 ### Note
 Following code must be kept, or you could not use the _dcmunpack_ and _recon-all_.
 ```
