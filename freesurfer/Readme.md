@@ -12,6 +12,12 @@
    - ```recon-all -all -i I50 -s  Subj001```
    - `reconall`has the same separate fundtion.
  - Parallel batching analysis.
+   - This approach leverages GNU Parallel to run multiple instances of recon-all simultaneously, improving efficiency.
+   - Ensure GNU Parallel is installed by running:
+   ```
+    sudo apt-get install parallel
+   ```
+
 ### Note
 Following code must be kept, or you could not use the _dcmunpack_ and _recon-all_.
 ```
